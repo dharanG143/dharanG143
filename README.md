@@ -27,4 +27,4 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/dhamo143
+- LinkedIn: https://linkedin.com/in/dhamo-dev
