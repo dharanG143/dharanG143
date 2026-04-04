@@ -51,7 +51,7 @@
 ## 📫 Contact Me
 
 * 📧 Email: dhamodharan13072003@gmail.com
-* 💼 LinkedIn: linkedin.com/in/dhamo-dev
+* 💼 LinkedIn: https://linkedin.com/in/dhamo-dev
 * 🌐 Portfolio: https://dhamo-dev-portfolio.vercel.app
 
 ---
